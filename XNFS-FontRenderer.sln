@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XNFS-FontRenderer", "XNFS-FontRenderer\XNFS-FontRenderer.vcxproj", "{A536FB24-557E-4265-8C5B-0FF727C5E11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-Carbon|x86 = Debug-Carbon|x86
+		Debug-MW|x86 = Debug-MW|x86
+		Release-Carbon|x86 = Release-Carbon|x86
+		Release-MW|x86 = Release-MW|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Debug-Carbon|x86.ActiveCfg = Release-Carbon|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Debug-Carbon|x86.Build.0 = Release-Carbon|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Debug-MW|x86.ActiveCfg = Debug-MW|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Debug-MW|x86.Build.0 = Debug-MW|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Release-Carbon|x86.ActiveCfg = Release-Carbon|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Release-Carbon|x86.Build.0 = Release-Carbon|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Release-MW|x86.ActiveCfg = Release-MW|Win32
+		{A536FB24-557E-4265-8C5B-0FF727C5E11D}.Release-MW|x86.Build.0 = Release-MW|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
